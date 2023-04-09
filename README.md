@@ -1,1 +1,1 @@
-# nodejs-comp-guide-main
+# Node.jsで学ぶWebシステムとソフトウェア開発基礎！Node.js完全入門ガイドの学習用リポジトリ
